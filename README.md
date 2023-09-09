@@ -66,4 +66,4 @@ In addition to the principles outlined above, there are some expectations and re
 ### 3. Breach of Code 
 Any action that may be in violation of this Code will be given full and impartial consideration. If indeed an infraction is identified, suitable action may be taken.
 
-[^note]: This should be spelled out in the association’s Constitution, which will describe the measures for ‘disciplinary’ action.
+[^1]: This should be spelled out in the association’s Constitution, which will describe the measures for ‘disciplinary’ action.
