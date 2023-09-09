@@ -1,11 +1,11 @@
-# GPF
+## GPF Code of conduct
 
-Table of Contents
-1.	INTRODUCTION	1
-2.	Code of Conduct	1
-2.1	Resolving issues of concern under the Code of Conduct	2
-2.2	Association Executives	2
-3.	Breach of Code	3
+# Table of Contents
+# 1.	INTRODUCTION	1
+# 2.	Code of Conduct	1
+# 2.1	Resolving issues of concern under the Code of Conduct	2
+# 2.2	Association Executives	2
+# 3.	Breach of Code	3
 
 
 
